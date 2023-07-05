@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hukurou82</h1>
-<h3 align="center">フロントエンジニアです。</h3>
+<h3 align="center">アウトドア趣味のフロントエンジニアです。</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
